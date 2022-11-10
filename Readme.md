@@ -1,3 +1,21 @@
+This is a simple website with basic functionalities where a user can user register, login, logout and submmit his query via Contact us form. All the pages are fully functional and responsive.
+
+Frontend :
+1. HTML
+2. CSS
+3. JAVASCRIPT
+
+Backend :
+1. NODE JS
+2. EXPRESS JS
+
+Database: Postgresql
+
+
+
+
+Images attached Below:
+
 Login page:
 ![2022-11-10 (11)](https://user-images.githubusercontent.com/85752194/200978380-5f7dfa7e-f037-4e95-9a32-67881821d8e2.png)
 
